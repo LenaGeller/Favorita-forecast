@@ -1,5 +1,5 @@
 # Retail Demand Analysis: Corporación Favorita
-![Sample Forecast](Output/Forecast Result.png)
+![Sample Forecast](Output/Forecast%20Result.png)
 
 ## Overview
 
