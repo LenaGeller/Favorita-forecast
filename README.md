@@ -27,3 +27,7 @@ The prepared data files are stored in the Data/ folder of this repository.
 ## Outputs
 
 Contains selected plots and results generated from the notebooks.
+
+## Project Walkthrough
+A detailed video explanation of the project can be found [here]([https://drive.google.com/your-video-link](https://drive.google.com/file/d/1TH8o7UDHuoKNWNp4-OK1Loh9LN6Bq5lg/view?usp=drive_link)).
+
