@@ -14,10 +14,10 @@ Our best score is MAE: 50.34, RMSE: 68.23.
 - [Data Preparation](https://github.com/LenaGeller/Favorita-forecast/blob/main/Notebooks/data_prep_Perischable.ipynb)
 Loads and cleans the data, applies filters to narrow region and timeframe, and saves prepared dataset for further use.
 
-- [Feature Engineering](Notebooks/Best_EDA_and_Feature_Engineering_Perishable.ipynb)
+- [Feature Engineering](https://github.com/LenaGeller/Favorita-forecast/blob/main/Notebooks/Best_EDA_and_Feature_Engineering_Perishable.ipynb)
 Explores the cleaned dataset, creates calendar, rolling, holiday, and promotion features, and handles missing values.
 
-- [Forecast Model (XGBoost)](Notebooks/Best_MAE_October_Forecast_Produce_XGBoost.ipynb)
+- [Forecast Model (XGBoost)](https://github.com/LenaGeller/Favorita-forecast/blob/main/Notebooks/Best_MAE_October_Forecast_Produce_XGBoost.ipynb)
 Trains and evaluates XGBoost models, including hyperparameter tuning and rolling forecast simulations. Shows how forecasts differ at item-store level compared to aggregated evaluation.
 
 ## Data
