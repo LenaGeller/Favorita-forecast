@@ -11,7 +11,7 @@ Our best score is MAE: 50.34, RMSE: 68.23.
 
 ## Notebooks
 
-- data_prep_Perischable.ipynb
+- [Data Preparation] (Notebooks/data_prep_Perischable.ipynb
 Loads and cleans the data, applies filters to narrow region and timeframe, and saves prepared dataset for further use.
 
 - Best_EDA_and_Feature_Engineering_Perishable.ipynb
