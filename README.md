@@ -6,7 +6,7 @@
 This project explores the Corporación Favorita time series dataset, focusing on daily sales across multiple stores and items.
 We deliberately narrowed the data to a smaller region and time window to create more efficient learning conditions and enable deeper feature experimentation.
 
-We selected XGBoost as our main model, since it is robust with categorical and sparse data, supports advanced feature engineering, and is well-suited for structured tabular datasets like this one. We implemented Rolling Forecasts, simulating real future predictions rather than just retrospective evaluation. This approach makes the analysis closer to real-world forecasting scenarios.
+We selected XGBoost as our main model, since it is robust with categorical and sparse data, supports advanced feature engineering, and is well-suited for structured tabular datasets like this one. We implemented Recursive forecasting, simulating real future predictions rather than just retrospective evaluation. This approach makes the analysis closer to real-world forecasting scenarios.
 Our best score is MAE: 50.34, RMSE: 68.23.
 
 ## Notebooks
